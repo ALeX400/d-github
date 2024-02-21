@@ -7,7 +7,7 @@ This CLI tool allows for the quick downloading of an entire GitHub directory's c
 To install this tool, run:
 
 ```bash
-npm install -g your-package-name
+npm install -g d-github
 ```
 
 ## Usage
